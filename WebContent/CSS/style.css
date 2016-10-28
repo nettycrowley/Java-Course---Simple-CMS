@@ -1,0 +1,43 @@
+
+  h1 {
+    font-size: 3em;
+    color: red;
+    font-family: fantasy;
+  }
+  h1:hover {
+    color: blue;
+    font-size: 4em;
+    text-decoration:line-through;
+    cursor:help;
+  }
+  div {
+    font-size: 2em
+  }
+.tiny {
+  font-size: 0.4em
+}
+
+.redtext{
+  color Orange;
+}
+
+#importantdiv {
+  font-size: 1.5em;
+  color: red; /*this is a comment*/
+}
+
+#colourDiv {
+	width:200px;
+	height: 200px;
+}
+.red {
+	background-color:red;
+}
+
+.green {
+	background-color:green;
+}
+
+.blue {
+	background-color:blue;
+}
